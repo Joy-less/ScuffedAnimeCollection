@@ -8,19 +8,19 @@ When using older models and low step-counts, generative AI often produces artifa
 
 ### [SQLette](SQLetteInfo.md)
 
-<img src="SQLette.png" width=256>
+<img src="SQLette.png" width=384>
 
 My first 'scuffed' character generated on 2024-12-10. The left hand is malformed and twisted, and the eyes are chiseled like gemstones. Originally created for my [SQLiteSharp](https://github.com/Joy-less/SQLiteSharp) project, SQLette is now the reference for this collection.
 
 ### [Jessie](JessieInfo.md)
 
-<img src="Jessie4X.png" width=256>
+<img src="Jessie4X.png" width=384>
 
 This adventurer has a top with a rune-shaped cutout and two belts fused into one. Her backpack and dagger are strangely designed.
 
 ### [Levia](LeviaInfo.md)
 
-<img src="Levia4X.png" width=256>
+<img src="Levia4X.png" width=384>
 
 This demon from hell has a hand that seems to melt into their cup. It's difficult to tell whether their appendages are wings, ears, coat-tails, or even mouths.
 
