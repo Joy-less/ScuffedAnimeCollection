@@ -16,7 +16,7 @@ My first 'scuffed' character generated on 2024-12-10. The left hand is malformed
 
 <img src="Collection/Jessie4X.png" width=512>
 
-This adventurer has a top with a rune-shaped cutout and two belts fused into one. Her backpack and dagger are strangely designed.
+This adventurer has a top with a rune-shaped cutout and two belts fused into one. Her backpack and dagger/pen are strangely designed.
 
 ### [Levia](Collection/LeviaInfo.md)
 
