@@ -14,15 +14,33 @@ My first 'scuffed' character generated on 2024-12-10. The left hand is malformed
 
 ### [Jessie](Collection/JessieInfo.md)
 
-<img src="Collection/Jessie4X.png" width=512>
+<img src="Collection/Jessie_4X.png" width=512>
 
 This adventurer has a top with a rune-shaped cutout and two belts fused into one. Her backpack and dagger/pen are strangely designed.
 
 ### [Levia](Collection/LeviaInfo.md)
 
-<img src="Collection/Levia4X.png" width=512>
+<img src="Collection/Levia_4X.png" width=512>
 
 This demon from hell has a hand that seems to melt into their cup. It's difficult to tell whether their appendages are wings, ears, coat-tails, or even mouths.
+
+### [Magazine 1](Collection/Magazine1Info.md)
+
+<img src="Collection/Magazine1_4X.png" width=512>
+
+This magazine back-page seems to speak an alien language. I wonder what it's trying to say?
+
+### [Magazine 2](Collection/Magazine2Info.md)
+
+<img src="Collection/Magazine2_4X.png" width=512>
+
+This magazine front-page seems more like it's trying to advertise something. Are those headphones?
+
+### [Stacie](Collection/StacieInfo.md)
+
+<img src="Collection/Stacie_4X.png" width=512>
+
+This flame-trooper has seen the end of war. The backpack looks like it's held down by a pipe. The flamethrower's overcomplicated design almost looks steampunk.
 
 ## Process
 
